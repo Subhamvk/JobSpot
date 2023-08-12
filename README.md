@@ -1,7 +1,7 @@
 # For any doubts or issues refer to the README.md or email me at mohantysubham02@gmail.com
 - For using the application on your mobile:
    - Download Expo app on your device.
-   - Now visit the link in the about section of the repository from your browser.
+   - Now visit the link given https://expo.dev/@subham_02/react_native_jobs?serviceType=classic&distribution=expo-go.
    - Scan the QR code using the Expo app.
   
 - For the issue where it sometimes shows popular jobs and sometimes nearby jobs, I made slight changes.
