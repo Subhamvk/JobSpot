@@ -1,4 +1,4 @@
-# For any doubts or issues refer to the README.md or email me at shahjatan88@gmail.com
+# For any doubts or issues refer to the README.md or email me at mohantysubham02@gmail.com
 - For using the application on your mobile:
    - Download Expo app on your device.
    - Now visit the link in the about section of the repository from your browser.
